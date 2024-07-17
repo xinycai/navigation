@@ -1,0 +1,35 @@
+{
+  "网站主页": [
+    {"name": "博客", "url": "https://blog.xiny.cc/", "icon": "fa-brands fa-blogger", "color": "#55acee"},
+    {"name": "云盘", "url": "https://yun.xiny.cc/", "icon": "fa-brands fa-cloudflare", "color": "#0088cc"},
+    {"name": "状态", "url": "https://sys.xiny.cc/", "icon": "fa-solid fa-chart-column", "color": "#ff6a00"},
+    {"name": "工具", "url": "https://tools.xiny.cc/", "icon": "fa-solid fa-screwdriver-wrench", "color": "#1da1f2"},
+    {"name": "SSH", "url": "https://ssh.xiny.cc/", "icon": "fa-solid fa-screwdriver-wrench", "color": "#ff4081"},
+    {"name": "搜索", "url": "https://google.xiny.cc/", "icon": "fa-solid fa-magnifying-glass", "color": "#d81e06"},
+    {"name": "IP工具", "url": "https://ip.xiny.cc/", "icon": "fa-solid fa-screwdriver-wrench", "color": "#333"},
+    {"name": "比特彗星", "url": "https://qb.xiny.cc/", "icon": "fa-solid fa-bitcoin-sign", "color": "#800080"},
+    {"name": "服务监控", "url": "https://mon.xiny.cc/", "icon": "fa-solid fa-chart-column", "color": "#ff6a00"},
+    {"name": "摄影作品", "url": "https://tuchong.com/28030584/", "icon": "fa-solid fa-camera-retro", "color": "#1da1f2"}
+  ],
+  "穿透服务": [
+    {"name": "ikuai", "url": "https://cikuai.xiny.cc:52443/", "icon": "fa-solid fa-hard-drive", "color": "#55acee"},
+    {"name": "OpenWrt", "url": "https://cop.xiny.cc:52443/", "icon": "fa-solid fa-hard-drive", "color": "#0088cc"},
+    {"name": "云盘", "url": "https://cyun.xiny.cc:52443/", "icon": "fa-brands fa-cloudflare", "color": "#ff6a00"},
+    {"name": "影视库", "url": "https://cmovie.xiny.cc:52443/", "icon": "fa-brands fa-youtube", "color": "#1da1f2"},
+    {"name": "Alist", "url": "https://calist.xiny.cc:52443/", "icon": "fa-brands fa-cloudflare", "color": "#ff4081"},
+    {"name": "FRPS", "url": "https://frps.xiny.cc:52443/", "icon": "fa-solid fa-hard-drive", "color": "#d81e06"},
+    {"name": "青龙面板", "url": "https://cql.xiny.cc:52443/", "icon": "fa-solid fa-hard-drive", "color": "#333"},
+    {"name": "PVE管理", "url": "https://cpve.xiny.cc:52443/", "icon": "fa-solid fa-hard-drive", "color": "#800080"}
+  ],
+  "本地服务": [
+    {"name": "ikuai", "url": "https://ikuai.xiny.cc/", "icon": "fa-solid fa-hard-drive", "color": "#55acee"},
+    {"name": "OpenWrt", "url": "https://openwrt.xiny.cc/", "icon": "fa-solid fa-hard-drive", "color": "#0088cc"},
+    {"name": "云盘", "url": "https://lyun.xiny.cc/", "icon": "fa-brands fa-cloudflare", "color": "#ff6a00"},
+    {"name": "影视库", "url": "https://movie.xiny.cc/", "icon": "fa-brands fa-youtube", "color": "#1da1f2"},
+    {"name": "Aria2", "url": "https://aria.xiny.cc/", "icon": "fa-solid fa-hard-drive", "color": "#ff4081"},
+    {"name": "青龙面板", "url": "https://ql.xiny.cc/", "icon": "fa-solid fa-hard-drive", "color": "#d81e06"},
+    {"name": "PVE管理", "url": "https://pve.xiny.cc/", "icon": "fa-solid fa-hard-drive", "color": "#333"},
+    {"name": "Docker管理", "url": "https://docker.xiny.cc/", "icon": "fa-solid fa-hard-drive", "color": "#800080"},
+    {"name": "服务监控", "url": "https://uptime.xiny.cc/", "icon": "fa-brands fa-cloudflare", "color": "#ff6a00"}
+  ]
+}
