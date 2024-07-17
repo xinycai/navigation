@@ -9,4 +9,4 @@
 
 ![背景图片](https://blog.xiny.cc/upload/blog/daohang.png)
 
-![手机背景图片](https://blog.xiny.cc/upload/blog/daohang-phone.jpg)
+<img src="https://blog.xiny.cc/upload/blog/daohang-phone.jpg" alt="手机背景图片" style="max-width: 300px;">
